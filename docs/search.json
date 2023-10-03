@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "favorites.html",
+    "href": "favorites.html",
+    "title": "favorites",
+    "section": "",
+    "text": "가나다12"
+  },
+  {
+    "objectID": "favorites.html#가나다",
+    "href": "favorites.html#가나다",
+    "title": "favorites",
+    "section": "",
+    "text": "가나다12"
   }
 ]
