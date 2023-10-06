@@ -10,6 +10,7 @@ website:
         text: Home
       - about.qmd
       - favorites.qmd
+      - kaggle_competition.qmd
 
 format:
   html:

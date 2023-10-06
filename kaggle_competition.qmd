@@ -1,0 +1,15 @@
+---
+title: "kaggle_competition"
+---
+
+# 요약
+
+-   캐글 playground competition을 진행함
+
+-   xgboost로 모델을 구성했고, EDA, feature extraction, oversampling으로 성능을 향상시켰음
+
+# 참여 계기, 목표
+
+-   가벼운 마음으로 참가할 수 있는 대회를 참가하고 싶었음
+
+-   모델 생성 중 설득력이 있는 모델을 만들고 싶음
