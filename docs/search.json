@@ -33,5 +33,12 @@
     "title": "kaggle_competition",
     "section": "",
     "text": "요약\n\n캐글 playground competition을 진행함\nxgboost로 모델을 구성했고, EDA, feature extraction, oversampling으로 성능을 향상시켰음\n\n\n\n참여 계기, 목표\n\n가벼운 마음으로 참가할 수 있는 대회를 참가하고 싶었음\n모델 생성 중 설득력이 있는 모델을 만들고 싶음\n\n\n\n모델 선정\n\nxgboost\n\n한번 해보고싶었음\n\n\n\n\n모델 업데이트\n\nEDA\n\n데이터 설명이 모자라서 모든 변수를 다 투입했음\n\n\n\nFeature Extraction\n\n상관 관계로 변수 선택\n\n상관계수가 낮은 것 제외\n\n개수에 따라 나눔\n\n\n\n\n\nOver sampling"
+  },
+  {
+    "objectID": "why_my_model_is_wrong.html",
+    "href": "why_my_model_is_wrong.html",
+    "title": "why my model is wrong",
+    "section": "",
+    "text": "test"
   }
 ]
